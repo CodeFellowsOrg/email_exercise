@@ -3,7 +3,6 @@ require File.expand_path('../boot', __FILE__)
 # require "yaml"
 # CONFIG = (YAML.load_file(File.expand_path("../config.yml", __FILE__)) rescue {}).merge(ENV)
 
-
 # Pick the frameworks you want:
 require "active_record/railtie"
 require "action_controller/railtie"
